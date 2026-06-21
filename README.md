@@ -12,7 +12,8 @@ Browse my full collection of production-ready assets and simulation mods directl
 
 ### 1. Premium Modular Wheel And Tire Pack
 A professional-grade, high-fidelity modular vehicular asset pack engineered specifically for high-end cinematic rendering, VFX production, close-up automotive visualization, and concept kitbashing pipelines.
-* Direct Shop Link: [https://payhip.com](https://payhip.com/b/f3rIk)
+* **Direct Shop Link:** [Premium Modular Wheel And Tire Pack]([https://payhip.com/RatchetArtStudio](https://payhip.com/b/f3rIk))
+
 
 ### 2. Custom Chevrolet S10 Mini Truck Mesh
 High-quality, highly detailed 3D model of a custom slammed and bagged mini truck based on a late-90s/early-2000s Chevrolet S-10 platform. This model is perfect for automotive renderings, custom car culture scenes, digital diorama projects & a lot more!
